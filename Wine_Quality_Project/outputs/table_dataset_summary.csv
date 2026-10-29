@@ -1,0 +1,4 @@
+Dataset,Samples,Features,Missing cells,Quality classes,Minimum quality,Maximum quality
+Red wine,1599,11,0,6,3,8
+White wine,4898,11,0,7,3,9
+Combined,6497,11,0,7,3,9

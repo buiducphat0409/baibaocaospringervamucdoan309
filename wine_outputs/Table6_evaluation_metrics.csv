@@ -1,0 +1,10 @@
+﻿Metric,What It Measures,Role in This Study
+Accuracy,Overall proportion of correct predictions,General performance
+Balanced Accuracy,Average recall across classes,Useful for class imbalance
+Macro-Precision,Unweighted mean of class precision,Equal class-level weighting
+Macro-Recall,Unweighted mean of class recall,Minority-class sensitivity
+Macro-F1,Unweighted mean of class F1,Primary comparison metric
+Weighted-F1,F1 averaged by class support,Performance weighted by frequency
+ROC-AUC,Ranking discrimination from scores,Use a defined multiclass strategy
+Confusion Matrix,Counts of true versus predicted classes,Identify specific class errors
+Log Loss,Quality of predicted probabilities,Evaluate probabilistic predictions

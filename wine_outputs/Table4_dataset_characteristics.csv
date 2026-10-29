@@ -1,0 +1,10 @@
+﻿Item,Description
+Dataset source,"UCI Machine Learning Repository, ID 186"
+Red wine observations,"1,599"
+White wine observations,"4,898"
+Combined observations,"6,497"
+Number of input features,11
+Target variable,quality
+Input type,Physicochemical numerical measurements
+Target use,Regression or classification
+Important limitation,"No brand, market price, or grape-variety fields"

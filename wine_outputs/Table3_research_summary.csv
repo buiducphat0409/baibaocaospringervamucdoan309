@@ -1,0 +1,8 @@
+﻿Study,Research Focus,Methods / Contribution
+Cortez et al. (2009),Wine quality prediction,Relates physicochemical properties to quality
+Gupta (2018),Feature importance,Examines relevant predictors
+Breiman (2001),Ensemble learning,Introduces Random Forest
+Chawla et al. (2002),Class imbalance,Introduces SMOTE
+Jain et al. (2023),Wine classification,Model comparison and feature selection
+Sinaga et al. (2025),White wine classification,"SMOTE, feature selection, parameter tuning"
+Khan et al. (2026),Advanced prediction,"Ensembles and explainability, as described in draft"

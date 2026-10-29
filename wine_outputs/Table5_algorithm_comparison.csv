@@ -1,0 +1,6 @@
+﻿Algorithm,Basic Principle,Scaling Sensitivity,Strength,Limitation
+Decision Tree,Recursive feature-based splits,Low,Interpretable rules,May overfit
+Random Forest,Ensemble of decision trees,Low,Robust baseline and feature importance,Less transparent than one tree
+SVM,Maximum-margin classification,High,Effective with suitable feature scaling,Parameter and kernel sensitivity
+KNN,Nearest-neighbor voting,High,"Simple, distance-based baseline",Sensitive to scale and dimensionality
+XGBoost,Gradient-boosted trees,Generally low,Advanced ensemble baseline,Requires careful tuning

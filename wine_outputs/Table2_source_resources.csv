@@ -1,0 +1,5 @@
+﻿Resource,Purpose,Main Use,Verification
+tqi2/Wine-Quality-Prediction,Classical classification,"DT, RF, SVC, KNN",Verify repository URL and current contents
+Scikit-learn documentation,Model implementation,"Pipelines, preprocessing, evaluation",Official documentation
+Imbalanced-learn documentation,Class imbalance,SMOTE inside training pipelines,Official documentation
+UCI Wine Quality repository,Dataset access,Red and white wine data,Dataset ID 186
